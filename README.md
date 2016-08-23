@@ -11,8 +11,10 @@ sudo apt-get install libmysqlclient-dev
 Run compile.sh
 ```
 
-
-
+#How to set openCobol IDE for MySQL
+```txt
+https://opencobolide.readthedocs.io/en/latest/advanced.html#sql-cobol-guide
+```
 
 
 
