@@ -1,6 +1,23 @@
 # DBPRE
 SQL precompiler for COBOL from svn checkout svn://svn.code.sf.net/p/dbpre/code/ dbpre-code
 
+# How to install dependencies 
+```txt
+sudo apt-get install libmysqlclient-dev
+```
+
+# How to compile on Linux 
+```txt
+Run compile.sh
+```
+
+
+
+
+
+
+
+
 
 Developed by the_piper@web.de
 For more infos see here: https://sourceforge.net/projects/dbpre/
